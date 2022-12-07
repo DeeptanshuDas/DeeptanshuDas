@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DeeptanshuDas
-- 👀 I’m interested in devops developer.
+- 👀 I’m aspiring as a devops developer.
 - 🌱 I’m currently learning go and kubernetes.
 - 💞️ I’m looking to collaborate on kubernetes projects and projects related to java ,go and web development projects.
 - 📫 you can reach me on this account.
