@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @DeeptanshuDas
 - 👀 I’m aspiring as a devops developer.
-- 🌱 I’m currently learning go and kubernetes.
-- 💞️ I’m looking to collaborate on kubernetes projects and projects related to java ,go and web development projects.
+- Technical writer currently writing about devops related tools
+- 🌱 I'm having a basic knowledge in go, python,java languages.
+- 💞️ I’m looking to collaborate on kubernetes,and cloudnative related projects and projects related to java ,go,python and web development projects.
 - 📫 you can reach me on this account.
 
 <!---
