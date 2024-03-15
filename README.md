@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DeeptanshuDas
-- 👀 I’m aspiring as a devops developer.
+- 👀 I’m aspiring as a devops developer and machine learning engineer.
 - Technical writer currently writing about devops related tools
 - 🌱 I'm having a basic knowledge in go, python,java languages.
 - 💞️ I’m looking to collaborate on kubernetes,and cloudnative related projects and projects related to java ,go,python and web development projects.
